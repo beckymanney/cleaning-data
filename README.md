@@ -9,6 +9,7 @@ This data set was made public on 11/1/2018.  It is updated quartly but is not au
 This is a subset of the data.
 
 There are 109,544 rows of complaints with 36 columns describing the complaints.
+I trimmed down to 65,000 rows for uploading.
 
 In the cleaning, 
 
